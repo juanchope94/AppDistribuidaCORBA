@@ -1,0 +1,1 @@
+java  Sensor.Presentacion.ClienteDeObjetos -ORBInitialHost localhost -ORBInitialPort 2020

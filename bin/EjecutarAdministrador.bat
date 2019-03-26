@@ -1,0 +1,1 @@
+java  Administrador.Vista.ClienteDeObjetos -ORBInitialHost localhost -ORBInitialPort 2020

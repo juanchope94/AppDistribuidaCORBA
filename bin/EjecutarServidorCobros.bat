@@ -1,0 +1,1 @@
+java -cp ".;./jars/mysql-connector-java-5.1.5-bin.jar" ServidorCobros.LogicaNegocio.ServidorDeObjetos –ORBInitialHost localhost -ORBInitialPort 2020

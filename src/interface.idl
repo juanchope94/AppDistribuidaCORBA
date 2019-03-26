@@ -1,0 +1,13 @@
+module sop_corba {
+
+    struct ClsDatosNotifyDTO{
+        long opcion;
+        string placa;
+        string fecha;
+        string hora;
+    };
+
+ interface CallBack{
+    void recibirNoti(in ClsDatosNotifyDTO objDatNotify);
+ };
+};
